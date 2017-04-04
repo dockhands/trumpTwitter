@@ -308,5 +308,5 @@ if (tweet.includes("cost") || tweet.includes("money") || tweet.includes("cash")|
 };
 
 makeTweet();
-setInterval(makeTweet, 3600000);
+setInterval(makeTweet, 36000);
 // information
